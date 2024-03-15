@@ -24,9 +24,9 @@ The project aims to shed light on various indicators of distress such as income,
 Ongoing Work - The project currently covers two indicators and work is ongoing to add the other indicators. 
 
 ✔️ **Income**
+✔️ **Educational attainment**
 - **Wage**
 - **Poverty**
-✔️ **Educational attainment**
 - **Unemployment**
 
 ### Detailed Objectives
