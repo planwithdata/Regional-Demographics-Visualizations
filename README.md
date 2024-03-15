@@ -79,13 +79,21 @@ This project is licensed under the Apache License 2.0 - see the LICENSE file for
 
 For detailed visualizations, view here: [Project Stress Indicators Plots](https://github.com/planwithdata/Regional-Demographics-Visualizations/tree/Vis_1_Stress_Indicators/Project_StressIndicators/Plots).
 
-![Income_White_NH](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/6dd0cdcd-5370-487d-80a5-f17802720857)
-![Income_NHPI](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/8950b75d-244f-416d-8179-9295d30a0e09)
-![Income_Hispanic](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/6b4fd6ae-327c-4a84-a22e-004afbfb0fb6)
-![Income_African American](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/0bbe0f2d-8b2d-41e9-9251-27bdb216c3f4)
-![Income_Asian](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/eec5be8f-d06c-4d71-9813-6519132d6b36)
-![Income_AIAN](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/d1677ee8-9348-43a1-9ccd-0a9077dfd302)
+![Median_Income_White_NH](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/6dd0cdcd-5370-487d-80a5-f17802720857)
+![Median_HH_Income_byJuris](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/f79b8383-e48f-4275-8b74-4f5d68611301)
+![Median_HH_Income_2017_byJuris-Black](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/1875db13-2367-42b2-84a4-9739d7c87bd9)
+![Median_HH_Income_2017_byJuris-WhiteNH](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/c6874fec-83a4-49df-bb9c-2a7eb3283517)
+![Median_HH_Income_2022_byJuris-WhiteNH](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/e915a70a-4c1a-43fb-87c7-128b167e417e)
+![Median_HH_Income_2022_byJuris-Black](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/b183a844-b52e-4226-a58f-598473a3c2c5)
 
-![SM_College_PlanRVA](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/1d97082e-851b-4fc7-a0c1-3ca337581db1)
-![Less_HS_PlanRVA](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/f4ca2c0e-aa8c-46ad-924e-de6ea1ac3225)
+![Educ_Attain_Total_Bachelors](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/b14b8589-5a2c-4d97-a8ee-b25dec7f0f4b)
+![Educ_Attain_SM_College_PlanRVA](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/1d97082e-851b-4fc7-a0c1-3ca337581db1)
+![Educ_Attain_Less_HS_PlanRVA](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/f4ca2c0e-aa8c-46ad-924e-de6ea1ac3225)
+
+
+![Educ_attainment_Underserved_graph](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/4b4b3858-5437-4bb0-9922-04438766da16)
+![Educ_Attain_Underserved_Bachelors](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/14840f86-950c-4921-84be-3e4cba6b8801)
+![Educ_Attain_Underserved_Less_HS](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/86a6a1ba-049b-4608-b241-abcdffdedc24)
+
+
 
