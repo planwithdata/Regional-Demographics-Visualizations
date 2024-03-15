@@ -21,10 +21,12 @@ The project aims to shed light on various indicators of distress such as income,
 
 ### Key Indicators
 
-- **Income**
+Ongoing Work - The project currently covers two indicators and work is ongoing to add the other indicators. 
+
+✔️ **Income**
 - **Wage**
 - **Poverty**
-- **Educational attainment**
+✔️ **Educational attainment**
 - **Unemployment**
 
 ### Detailed Objectives
@@ -62,6 +64,9 @@ Create maps for the PlanRVA footprint at the Census Tract level to show:
 - **Baltimore Metro Area**
 - And more, focusing on specific counties within these metro areas as outlined in the project instructions.
 
+### Future Tasks
+The comparison with other regions is currently underway and represents a key area of future development for this project. Stay tuned for updates as we expand our analysis to include additional metropolitan areas.
+
 ## Contributing
 
 We welcome contributions from researchers, data analysts, and policy makers. Whether you're adding new data sources, enhancing the analysis, or improving the visualization, your input is valuable. Please see our contributing guidelines for more information on how to participate.
@@ -69,3 +74,18 @@ We welcome contributions from researchers, data analysts, and policy makers. Whe
 ## License
 
 This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
+
+## Example Plots -
+
+For detailed visualizations, view here: [Project Stress Indicators Plots](https://github.com/planwithdata/Regional-Demographics-Visualizations/tree/Vis_1_Stress_Indicators/Project_StressIndicators/Plots).
+
+![Income_White_NH](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/6dd0cdcd-5370-487d-80a5-f17802720857)
+![Income_NHPI](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/8950b75d-244f-416d-8179-9295d30a0e09)
+![Income_Hispanic](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/6b4fd6ae-327c-4a84-a22e-004afbfb0fb6)
+![Income_African American](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/0bbe0f2d-8b2d-41e9-9251-27bdb216c3f4)
+![Income_Asian](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/eec5be8f-d06c-4d71-9813-6519132d6b36)
+![Income_AIAN](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/d1677ee8-9348-43a1-9ccd-0a9077dfd302)
+
+![SM_College_PlanRVA](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/1d97082e-851b-4fc7-a0c1-3ca337581db1)
+![Less_HS_PlanRVA](https://github.com/planwithdata/Regional-Demographics-Visualizations/assets/131815755/f4ca2c0e-aa8c-46ad-924e-de6ea1ac3225)
+
