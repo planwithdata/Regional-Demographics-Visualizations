@@ -11,9 +11,9 @@ For the purposes of this analysis, **underserved populations** are defined by th
 ## Data Sources
 
 This analysis leverages data from multiple sources to ensure a comprehensive overview:
-- Greater Washington Partnership Inclusive Growth Dashboard
-- Urban Institute Mobility Dashboard
-- Census Profiles
+- Greater Washington Partnership Inclusive Growth Dashboard i motivation for the plots.
+- Urban Institute Mobility Dashboard - Data Representation.
+- American Community Survey (ACS) Datasets. - Data.  
 
 ## Analysis Goals and Objectives
 
