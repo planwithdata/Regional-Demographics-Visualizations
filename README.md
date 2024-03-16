@@ -11,9 +11,9 @@ For the purposes of this analysis, **underserved populations** are defined by th
 ## Data Sources
 
 This analysis leverages data from multiple sources to ensure a comprehensive overview:
-- Greater Washington Partnership Inclusive Growth Dashboard
-- Urban Institute Mobility Dashboard
-- Census Profiles
+- Greater Washington Partnership Inclusive Growth Dashboard - Data Representation.
+- Urban Institute Mobility Dashboard - Data Representation.
+- American Community Survey (ACS) Datasets. - Actual Data used in this project.  
 
 ## Analysis Goals and Objectives
 
@@ -24,9 +24,9 @@ The project aims to shed light on various indicators of distress such as income,
 Ongoing Work - The project currently covers two indicators and work is ongoing to add the other indicators. 
 
 ✔️ **Income**
+✔️ **Educational attainment**
 - **Wage**
 - **Poverty**
-✔️ **Educational attainment**
 - **Unemployment**
 
 ### Detailed Objectives
