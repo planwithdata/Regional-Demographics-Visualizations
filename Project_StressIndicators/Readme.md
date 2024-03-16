@@ -1,9 +1,3 @@
-Last Update: 02/13/2024
-Find script output in project_data.
+Find the project Output in Plots Folder.
 
-This is currently a working project. 
-As of 02/13/2024 the script enables one to compare 5 regions by statecodes by their Median Income (by Race), and Educational Attainment (also by Race). 
-
-Other elements to be added - 
-- Visualizations/Plots
-- other indicators - poverty and unemployment; and more..
+When analyzing regional demographics, observing disparities in Median Income and Educational Attainment among different groups reveals significant insights into their capacities to address urban challenges. Higher educational levels often correlate with better job opportunities, leading to higher median incomes, which in turn, enable better access to resources and solutions for urban issues. Conversely, communities with lower educational attainment might face more significant obstacles, affecting their economic stability and hindering their ability to cope with or contribute to solving urban problems. This highlights the importance of targeted interventions to bridge these gaps. 
